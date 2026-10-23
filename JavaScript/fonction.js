@@ -2,7 +2,7 @@
 /**
  * 
  * @param {*} text N'importe quoi
- */
+
 function log(text){
     console.log(text);
 }
@@ -13,7 +13,7 @@ log("Hello");
 /**
  * 
  * @param {string} mois le mois actuel
- */
+
 function saison(mois){
     if(mois == "Septembre" || mois == "Octobre" || mois == "Novembre"){
         console.log("Automne");
@@ -50,5 +50,5 @@ function login (){
     alert(`Bonjour ${prenom} ${nom}`);
     
 }
-
+*/
 
