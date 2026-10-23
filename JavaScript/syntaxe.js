@@ -1,4 +1,4 @@
-var prenom = "Alex";
+/* var prenom = "Alex";
 console.log(prenom);
 
 var ville = "Montréal";
@@ -22,3 +22,4 @@ console.log("La criconference d'un cercle ayant un rayon de 4cm est : ", circonf
 var nomEleve = "Pelchat"; var prenomEleve = "Alex"; var age = 17;
 console.log("Je m'appelle " + prenomEleve + " " + nomEleve + " et j'ai " + age + " ans");
 console.log(`Je m'appelle ${prenomEleve} ${nomEleve} et j'ai ${age} ans`)
+*/
